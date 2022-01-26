@@ -1,4 +1,4 @@
-Southern Methodist University, May 2022 \
+Senior at Southern Methodist University \
 B.A. English, Minor in Economics \
 B.B.A. Management
 
