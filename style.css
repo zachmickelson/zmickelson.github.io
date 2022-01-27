@@ -1,0 +1,23 @@
+body {
+    background-color: #fffaf0;
+    margin-left: 15%;
+    font-family: Verdana,Geneva,sans-serif;
+}
+p {
+    color: #321a18;
+}
+h1, h2 {
+    color: #006a4e;
+}
+h2 {
+    font-weight: normal;
+    margin: 0px;
+}
+a {
+    color: #006a4e;
+    text-decoration: none;
+}
+a:hover {
+    color: #00503a;
+    font-weight: bold;
+}
