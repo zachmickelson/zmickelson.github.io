@@ -1,27 +1,27 @@
 body {
-    background-color: #fffaf0;
+    background-color: #f2f3f5;
     margin-left: 15%;
     font-family: Verdana,Geneva,sans-serif;
 }
 p {
     font-size: clamp(1rem, 1.2vw, 2rem);
-    color: #321a18;
+    color: #242124;
 }
 h1 {
     font-size: clamp(2rem, 3vw, 5rem);
-    color: #006a4e;
+    color: #015b43;
 }
 h2 {
     font-size: clamp(1.5rem, 2.25vw, 3.75rem);
     font-weight: normal;
-    color: #006a4e;
+    color: #015b43;
     margin: 0px;
 }
 a {
-    color: #006a4e;
+    color: #015b43;
     text-decoration: none;
 }
 a:hover {
-    color: #00503a;
+    color: #004230;
     font-weight: bold;
 }
